@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,500,700);
+
+body {
+    background-color: white;
+    text-shadow: none;
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+a{
+    color: #6979ED;
+}
+
+a:focus,
+a:hover {
+  color: #3744A0;
+    text-decoration: none;
+}
+
+.site-wrapper {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+@media (min-width: 768px) {
+    .masthead-nav {
+        float: left;
+    }
+}
+
+h1 {
+    color: #3744A0;
+    font-size: 3.9em;
+    text-align: center;
+    font-family: 'Roboto';
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+h2 {
+    color: #3744A0;
+    font-size: 1.7em;
+    text-align: center;
+    font-family: 'Roboto';
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.home-feature {
+    margin: 40px 20px;
+}
+
+.home-feature img {
+    max-width: 75px;
+    margin: 5px;
+}
+
+.collaborators {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.collaborators img {
+    max-height: 50px;
+    max-width: 120px;
+    margin: 10px 20px;
+}
