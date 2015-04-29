@@ -7,6 +7,10 @@ body {
     font-family: "Open Sans", sans-serif;
     text-align: left;
 }
+.site-wrapper {
+      -webkit-box-shadow: none;
+          box-shadow: none;
+}
 
 a{
     color: #6979ED;
@@ -49,6 +53,7 @@ h2 {
 
 .home-feature {
     margin: 40px 20px;
+    text-align: center;
 }
 
 .home-feature img {
