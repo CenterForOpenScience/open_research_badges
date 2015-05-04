@@ -4,9 +4,9 @@
     <list default="true" id="d6511645-512e-4cf2-a2cf-9d2f8191f44b" name="Default" comment="" />
     <ignored path="open_research_badges.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430765811340" ignored="false" />
-    <file path="/custom.css" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430765611652" ignored="false" />
-    <file path="/Dummy.txt" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430164899990" ignored="false" />
+    <file path="/index.html" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430767632824" ignored="false" />
+    <file path="/custom.css" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430767646180" ignored="false" />
+    <file path="/Dummy.txt" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430765900421" ignored="false" />
     <file path="$PROJECT_DIR$/../osf-jc/main.py" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430164899990" ignored="false" />
     <file path="$PROJECT_DIR$/../osf-jc/website/templates/public/pages/getting_started.mako" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430245744988" ignored="false" />
     <file path="$PROJECT_DIR$/../osf-jc/website/app.py" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430164899990" ignored="false" />
@@ -77,6 +77,10 @@
     <file path="/site.css" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430245410063" ignored="false" />
     <file path="$PROJECT_DIR$/../osf-jc/website/static/public/js/base-page.js" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430245522996" ignored="false" />
     <file path="/cover.css" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430319260776" ignored="false" />
+    <file path="$PROJECT_DIR$/../cos.io/www/involved_participate.mako" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430767999055" ignored="false" />
+    <file path="/involved_participate.mako" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430767768807" ignored="false" />
+    <file path="$PROJECT_DIR$/../cos.io/www/about_team.mako" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430769066542" ignored="false" />
+    <file path="/about_team.mako" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430769066542" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,19 +100,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="90" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.45668015">
+            <state line="43" column="80" selection-start="2385" selection-end="2385" vertical-scroll-proportion="-24.571428">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="22" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0">
+            <state line="89" column="0" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.6028369">
               <folding />
             </state>
           </provider>
@@ -125,8 +129,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/cover.css" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -294,7 +298,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
+    <frame x="1280" y="23" width="1280" height="1417" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -419,16 +423,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="22" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0">
+        <state line="43" column="80" selection-start="2385" selection-end="2385" vertical-scroll-proportion="-24.571428">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="90" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.45668015">
+        <state line="89" column="0" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.6028369">
           <folding />
         </state>
       </provider>
