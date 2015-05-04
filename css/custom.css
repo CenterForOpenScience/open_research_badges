@@ -54,8 +54,13 @@ h2 {
 
 h4 {
     font-size: 20px;
-    font-weight: bold;
-    color: #3744A0;
+    font-weight: 500;
+    color: white;
+    background-color: #3744A0;
+    padding: 10px 15px;
+    margin-top: 0px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+
 }
 
 .lead {
@@ -85,10 +90,24 @@ h4 {
 
 .initiatives {
     text-align: center;
+    border: 1px #3744A0 solid;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.initiatives h4:hover {
+    background-color: rgba(55, 68, 160, 0.67);
+
+    -webkit-transition: background-color 500ms ease-in-out;
+    -moz-transition: background-color 500ms ease-in-out;
+    -o-transition: background-color 500ms ease-in-out;
+    transition: background-color 500ms ease-in-out;
 }
 
 .cos-badges img {
     max-width: 100px;
+    max-width: 105px;
+    padding: 10px;
 }
 
 .mozilla-badges img {
@@ -99,5 +118,9 @@ h4 {
     text-align: center;
     padding: 20px 0px;
     margin: 30px 0px;
-    background-color: rgba(55, 68, 160, 0.25);
+
+}
+
+.no-pad-right {
+    padding-right: 0px;
 }

@@ -4,8 +4,8 @@
     <list default="true" id="d6511645-512e-4cf2-a2cf-9d2f8191f44b" name="Default" comment="" />
     <ignored path="open_research_badges.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430504315320" ignored="false" />
-    <file path="/custom.css" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430504114129" ignored="false" />
+    <file path="/index.html" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430765811340" ignored="false" />
+    <file path="/custom.css" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430765611652" ignored="false" />
     <file path="/Dummy.txt" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430164899990" ignored="false" />
     <file path="$PROJECT_DIR$/../osf-jc/main.py" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430164899990" ignored="false" />
     <file path="$PROJECT_DIR$/../osf-jc/website/templates/public/pages/getting_started.mako" changelist="d6511645-512e-4cf2-a2cf-9d2f8191f44b" time="1430245744988" ignored="false" />
@@ -99,7 +99,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="24" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.43269232">
+            <state line="47" column="90" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.45668015">
               <folding />
             </state>
           </provider>
@@ -108,7 +108,7 @@
       <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="46" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
+            <state line="124" column="22" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -301,7 +301,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18233387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18233387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -400,7 +400,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/cover.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="31" selection-end="69" vertical-scroll-proportion="0.0" />
+        <state line="5" column="0" selection-start="31" selection-end="69" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
@@ -412,19 +414,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/cover.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="60" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" />
+        <state line="29" column="60" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="46" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
+        <state line="124" column="22" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="24" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.43269232">
+        <state line="47" column="90" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.45668015">
           <folding />
         </state>
       </provider>
