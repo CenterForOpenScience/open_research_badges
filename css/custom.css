@@ -88,9 +88,39 @@ h4 {
     margin: 10px 20px;
 }
 
-#initiatives-content {
+.initiatives-content {
     margin-top: 20px;
 }
+
+.initiatives-content a p {
+    opacity: 0;
+    margin-bottom: 0px;
+    padding: 15px;
+}
+
+.initiatives-content h4 {
+    margin-bottom: 0px;
+}
+
+.initiatives-content a:hover p {
+    color: white;
+    opacity: 1;
+    -webkit-transition: opacity 1.3s ease;
+    -moz-transition: opacity 1.3s ease;
+    -o-transition: opacity 1.3s ease;
+    transition: opacity 1.3s ease;
+}
+
+.initiatives-content a:hover #mozilla-text-box, .initiatives-content a:hover #cos-text-box {
+    background-color: #3744A0;
+    opacity: .7;
+    background-image: none;
+    -webkit-transition: all 1.3s ease;
+    -moz-transition: all 1.3s ease;
+    -o-transition: all 1.3s ease;
+    transition: all 1.3s ease;
+}
+
 
 .initiatives {
     text-align: center;
@@ -99,24 +129,20 @@ h4 {
     border-radius: 4px;
 }
 
-.initiatives h4:hover {
-    background-color: rgba(55, 68, 160, 0.67);
-
-    -webkit-transition: background-color 500ms ease-in-out;
-    -moz-transition: background-color 500ms ease-in-out;
-    -o-transition: background-color 500ms ease-in-out;
-    transition: background-color 500ms ease-in-out;
+#mozilla-text-box {
+    background-image: url('../img/mozilla_badge.png');
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position: center;
 }
 
-.cos-badges img {
-    max-width: 100px;
-    max-width: 105px;
-    padding: 10px;
+#cos-text-box {
+    background-image: url('../img/cos_badge.png');
+    background-repeat: no-repeat;
+    background-size: 100px 108px;
+    background-position: center;
 }
 
-.mozilla-badges img {
-    max-width: 120px;
-}
 
 .contact {
     text-align: center;
